@@ -1,5 +1,5 @@
 # Fermilab-Internship-2019
-This repository contains all code, files, and images I created / worked on during my 10 week Fermilab Summer Internship in 2019. All code in the files was coded by me.
+This repository contains all code, files, and images I created / worked on during my 10 week Fermilab Summer Internship in 2019. All code in the files was coded by me in C++.
 
 # ROOT
 Root is the data analysis framework used to plot various distributions for different processes produced during collisions at the LHC (Large Hadron Collider) in CERN, Framework reference is at this link
