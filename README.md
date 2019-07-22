@@ -7,9 +7,9 @@ Root is the data analysis framework used to plot various distributions for diffe
 
 # Steps Taken
 In order to plot data and simulation for analysis, there are 3 steps.
-Step 1: Access .root files containing data trees for all the different distributions (i.e. electron momentum, muon momentum, number of leptons, quark jets, etc.)
-Step 2: Loop through all entries in trees, apply cuts, and save those histograms into a new .root file
-Step 3: Access the files that contain the data after cuts and plot using various display options
+- Step 1: Access .root files containing data trees for all the different distributions (i.e. electron momentum, muon momentum, number of leptons, quark jets, etc.)
+- Step 2: Loop through all entries in trees, apply cuts, and save those histograms into a new .root file
+- Step 3: Access the files that contain the data after cuts and plot using various display options
 
 # Files
   - chain_looper.C: creates a TChain for each set of .root files corresponding to the different processes (ttbar, ttgam, wz, zz,       etc), and calls the looper in auto_looper.C for each chain
