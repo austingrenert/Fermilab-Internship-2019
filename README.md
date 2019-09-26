@@ -21,3 +21,6 @@ In order to plot data and simulation for analysis, there are 3 steps.
 # Other
 All files were coded in Linux command line on a mac laptop. Before copying all files to the local system, all coding was done on a remote machine through an SSH connection. So basic knowledge and skills surrounding Linux command line (i.e. navigating through directories, opening and editing files, copying files on both local and remote systems, and downloading files from github) were aquired.
 
+# WWWAnalysisRun2
+The files contained in this folder were part of a bigger framework created by another employee at fermilab. All the files contained are files that I have persnoally gone through and edited in order to allow the framework to analyze the new simulation sample for the particular particle interaction that we were looking for. These files are big, the credit goes to Philip Chang of fermilab for creating this framework and helping me understand it.
+
